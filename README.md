@@ -1,4 +1,4 @@
-# my-codechef-journey🚀
+# my codechef journey 🚀
 
 [![CodeChef Profile](https://img.shields.io/badge/CodeChef-Profile-brightgreen?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/mhdnazrul)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/mhdnazrul/my-codechef-journey?style=for-the-badge&logo=github)](https://github.com/mhdnazrul/my-codechef-journey/commits/main)
