@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
+
 using namespace std;
 #define FAST_IO                \
   ios::sync_with_stdio(false); \
@@ -12,10 +12,12 @@ const ll mod = 1e9 + 7;
 
 void solve()
 {
-  int a, b;
-  cin >> a >> b;
-  int min_value = min(a * 3, b * 2);
-  cout << min_value << endl;
+  int n;
+  cin >> n;
+  if (n >= 10)
+    cout << n % 10 << endl;
+  else
+    cout << n << endl;
 }
 
 int main()
